@@ -1,0 +1,6 @@
+C:\Users\Imortal\Documents\Projects\GoogleCodeJam2015\GoogleCodeJam2015\bin\Debug\GoogleCodeJam2015.exe.config
+C:\Users\Imortal\Documents\Projects\GoogleCodeJam2015\GoogleCodeJam2015\obj\Debug\GoogleCodeJam2015.csprojResolveAssemblyReference.cache
+C:\Users\Imortal\Documents\Projects\GoogleCodeJam2015\GoogleCodeJam2015\bin\Debug\GoogleCodeJam2015.exe
+C:\Users\Imortal\Documents\Projects\GoogleCodeJam2015\GoogleCodeJam2015\bin\Debug\GoogleCodeJam2015.pdb
+C:\Users\Imortal\Documents\Projects\GoogleCodeJam2015\GoogleCodeJam2015\obj\Debug\GoogleCodeJam2015.exe
+C:\Users\Imortal\Documents\Projects\GoogleCodeJam2015\GoogleCodeJam2015\obj\Debug\GoogleCodeJam2015.pdb
